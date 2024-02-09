@@ -7,7 +7,7 @@ Have you ever been sat down at a resturant, menu in hand, wondering what you sho
 
 But... you need more time!
 
-"Let me know if you need anything." the waiter says, after your fourth time making eye-contact in the last 10 minutes. Your friends look up from their menus and signal the waiter to come over. After letting them place their orders, you hurriedly choose a dish you know you'll be unsatisified with -  and any decision feels like the wrong one.
+"Let me know if you need anything." the waiter says, after your fourth time making eye-contact in the last 10 minutes. Your friends look up from their menus and signal the waiter to come over. After they place their orders, you hurriedly choose a dish you know you'll be unsatisified with -  and any decision feels like the wrong one.
 
 With Molla, you can eliminate menu anxiety by automating this process. 
 
